@@ -21,4 +21,6 @@ A simple portfolio page to display completed projects.
 * User passwords are hashed into database
 * SQL database/password are for generic local setup using XAMPP
 
-Live demo coming soon...
+Live demo here:
+
+[Heroku](https://polar-savannah-76012.herokuapp.com/index.php)
