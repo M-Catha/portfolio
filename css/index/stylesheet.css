@@ -1,0 +1,53 @@
+body {
+	background:url("../../assets/images/bgs/newroad.jpg");
+	background-position:center center;
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	overflow-y:hidden;
+}
+
+
+
+.grid {
+	margin-top:10% !important;
+}
+
+.content {
+	color:white;
+	font-family:'Shrikhand';
+	font-size:1.1em;
+	text-shadow: 2px 2px 2px rgba(0, 0, 0, 1);
+}
+
+.column {
+	max-width:450px;
+}
+
+#tab {
+	color:white;
+}
+#tab.active {
+	color:black;
+	border-top:orange 3px solid;
+}
+
+.text {
+	text-align:center;
+	font-weight:bolder;
+}
+
+.altSignIn {
+	text-align:center;
+	font-family:'Raleway';
+	font-weight:bold;
+}
+
+.link {
+	text-decoration:none;
+	transition:color 0.5s;
+}
+
+.link:hover {
+	color:#7c0000;
+}
