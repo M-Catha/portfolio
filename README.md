@@ -20,6 +20,8 @@ A simple portfolio page to display completed projects.
 
 * User passwords are hashed into database
 * SQL database/password are for generic local setup using XAMPP
+* The code provided here uses PHP's built-in mail() function for email
+* The heroku demo uses [ClearDB](https://elements.heroku.com/addons/cleardb) addon for database usage and [SendGrid](https://elements.heroku.com/addons/sendgrid) addon for email purposes.
 
 Live demo here:
 
