@@ -25,4 +25,4 @@ A simple portfolio page to display completed projects.
 
 Live demo here:
 
-[Heroku](https://polar-savannah-76012.herokuapp.com/index.php)
+[Heroku](https://mattsportfolio.herokuapp.com/)
